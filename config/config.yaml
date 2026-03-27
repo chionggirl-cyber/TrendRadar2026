@@ -330,9 +330,9 @@ notification:
       chat_id: ""                     # Senangdiri
 
     email:
-      from: ""                        # chionggirl@gmail.com
-      password: ""                    # Pr0v3rb5345
-      to: ""                          # chionggirl@gmail.com
+      from: ""                        # 
+      password: ""                    # 
+      to: ""                          # 
       smtp_server: ""                 # SMTP 服务器（可选，留空自动识别）
       smtp_port: ""                   # SMTP 端口（可选，留空自动识别）
 
